@@ -39,10 +39,12 @@ Tools & IDEs:    Git, GitHub, Jupyter, VS Code
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijnirdhar20&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=kshitijnirdhar20&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijnirdhar20&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=kshitijnirdhar20&theme=tokyonight" height="180px"/>
+
+</div>
 
 ---
 
