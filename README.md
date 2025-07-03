@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Kshitij Nirdhar</h1>
 
 <p align="center">
-🎓 Electronics & Telecommunication Student | 🤖 ML Explorer | 🚀 Future AI Engineer  
+🎓 Electronics & Telecommunication Student | 🤖 AI ML Explorer   
 </p>
 
 <p align="center">
@@ -34,7 +34,3 @@ Languages:       Python, C, C++
 ML Tools:        TensorFlow, Keras, Scikit-Learn
 Data Handling:   NumPy, Pandas, Matplotlib, Seaborn
 Tools & IDEs:    Git, GitHub, Jupyter, VS Code
-
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kshitijnirdhar20&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://streak-stats.demolab.com/?user=kshitijnirdhar20&theme=tokyonight" width="47%" /> </p>
