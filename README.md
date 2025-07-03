@@ -30,7 +30,7 @@ Every day I dive deeper into models, data, algorithms, and architectures — try
 ### 🧰 My Tech Stack
 
 ```yaml
-Languages:       Python, C, C++
+Languages:       Python
 ML Tools:        TensorFlow, Keras, Scikit-Learn
 Data Handling:   NumPy, Pandas, Matplotlib, Seaborn
 Tools & IDEs:    Git, GitHub, Jupyter, VS Code
