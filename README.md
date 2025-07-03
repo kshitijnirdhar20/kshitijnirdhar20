@@ -29,8 +29,56 @@ Every day I dive deeper into models, data, algorithms, and architectures — try
 
 ### 🧰 My Tech Stack
 
-```yaml
 Languages:       Python
 ML Tools:        TensorFlow, Keras, Scikit-Learn
 Data Handling:   NumPy, Pandas, Matplotlib, Seaborn
 Tools & IDEs:    Git, GitHub, Jupyter, VS Code
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijnirdhar20&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=kshitijnirdhar20&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+## 🔍 Currently Exploring
+
+- 🎨 Generative AI (LLMs, image generation, prompt engineering)  
+- 🤯 Neural Network internals and tuning  
+- 📈 Real-time ML dashboards and deployment basics  
+- 🧪 Experimenting with Kaggle datasets and challenges  
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're also learning ML, building AI tools, or want to exchange ideas, let's connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kshitij-nirdhar-208720313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nirdharkshitij2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote That Drives Me
+
+> “You don’t have to be great to start, but you have to start to be great.”
+
+---
+
+## 🧩 Fun Facts
+
+- 🧑‍💻 I enjoy debugging ML models more than debugging code  
+- 🎧 My best ML breakthroughs happen with music playing in the background  
+- ✍️ I plan to start writing blogs on my ML learning journey soon  
+
