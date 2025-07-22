@@ -22,6 +22,7 @@ Each day, I explore data, dive into models, write code, break things, fix them, 
   - CNNs, RNNs, Transformers (NLP + Vision)  
   - TensorFlow, Keras, model evaluation & tuning  
   - Core Java & object-oriented programming
+  - Core Electronics 
 
 - 🌟 **Goal**: Build ML-powered products that solve real-world problems.
 
@@ -30,13 +31,10 @@ Each day, I explore data, dive into models, write code, break things, fix them, 
 ### 🧰 My Tech Stack
 
 **Languages:**  
-Python, Java
+Python, Java, C,C++
 
 **ML & DL:**  
 TensorFlow, Keras, Scikit-Learn
-
-**Data Analysis & Viz:**  
-NumPy, Pandas, Matplotlib, Seaborn
 
 **Tools & IDEs:**  
 Git, GitHub, Jupyter Notebook, VS Code
@@ -58,13 +56,13 @@ Git, GitHub, Jupyter Notebook, VS Code
 - 🤯 Understanding neural network internals & interpretability  
 - ⚙️ Real-time ML dashboards & web deployment  
 - 📊 Kaggle competitions & dataset experimentation  
-- ☕ Core Java
+- ☕ Core Java & core electronics
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you're learning ML, exploring Java, or just love building cool things — I’d love to connect & collaborate!
+If you're learning ML, exploring Java, or exploring cool electronics things — I’d love to connect & collaborate!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kshitij-nirdhar-208720313" target="_blank">
