@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Machine+Learning+in+depth...;Building+cool+ML+projects...;Exploring+Gen+AI+creatively...;Becoming+better+1%25+everyday...&center=true&width=500&height=30&color=58A6FF&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+coding+in+depth...;Building+cool+ML+projects...;Exploring+Gen+AI+creatively...;Becoming+better+1%25+everyday...&center=true&width=500&height=30&color=58A6FF&vCenter=true" alt="Typing SVG" />
 </p>
 
 ---
