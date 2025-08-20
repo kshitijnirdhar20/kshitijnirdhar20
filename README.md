@@ -14,14 +14,14 @@
 
 > "I don't just want to use AI — I want to understand it deeply and build with it."
 
-I'm Kshitij — an E&TC student passionate about **Machine Learning**, **Generative AI**, and now diving into **Java**.  
+I'm Kshitij — an E&TC student passionate about **Machine Learning**, **Problem solving**, and **Java**.  
 Each day, I explore data, dive into models, write code, break things, fix them, and grow.
 
 - 💻 **Currently Learning**:  
   - Machine Learning foundations & math  
   - CNNs, RNNs, Transformers (NLP + Vision)  
   - TensorFlow, Keras, model evaluation & tuning  
-  - Core Java & object-oriented programming
+  - Core Java & Core CPP object-oriented programming
   - Core Electronics 
 
 - 🌟 **Goal**: Build ML-powered products that solve real-world problems.
