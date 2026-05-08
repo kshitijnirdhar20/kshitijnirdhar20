@@ -18,10 +18,9 @@ I'm Kshitij — an E&TC student passionate about **Machine Learning**, **Problem
 Each day, I explore data, dive into models, write code, break things, fix them, and grow.
 
 - 💻 **Currently Learning**:  
-  - Machine Learning foundations & math  
+  - Machine Learning
   - CNNs, RNNs, Transformers (NLP + Vision)  
-  - TensorFlow, Keras, model evaluation & tuning  
-  - Core Java & Core CPP object-oriented programming
+  - TensorFlow, Keras, model evaluation & tuning 
   - Core Electronics 
 
 - 🌟 **Goal**: Build ML-powered products that solve real-world problems.
