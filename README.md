@@ -27,19 +27,6 @@ Each day, I explore data, dive into models, write code, break things, fix them, 
 
 ---
 
-### 🧰 My Tech Stack
-
-**Languages:**  
-Python, Java, C,C++
-
-**ML & DL:**  
-TensorFlow, Keras, Scikit-Learn
-
-**Tools & IDEs:**  
-Git, GitHub, Jupyter Notebook, VS Code
-
----
-
 ## 🔍 Currently Exploring
 
 - 🎨 Generative AI
